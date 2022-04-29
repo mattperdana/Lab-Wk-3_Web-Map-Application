@@ -1,5 +1,5 @@
 # USCovidCases2020
-This file will introduce the project name, a brief introduction, links to the map, screenshots, the primary functions, libraries in use, data sources, credit, acknowledgment, and other necessary information.
+This file contain the introduction to the project name with its introduction, links to the map, screenshots, the primary functions, libraries in use, data sources, credit, acknowledgment, and other necessary information.
 
 **Introduction**
 
