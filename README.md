@@ -6,7 +6,7 @@ This file contain the introduction to the project name with its introduction, li
 This project maps COVID-19 2020 cases and rates in the United States through two kind of thematic maps. One is a choropleth map and the other is a proportional symbol map.
 
 [Covid Rates in the United States 2020 - Choropleth Map](http://127.0.0.1:5500/map1.html)
-(img/map-1.png)
+[Choropleth Map](img/map-1.png)
 
 **Data sources, resources, tools**
 
