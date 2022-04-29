@@ -18,9 +18,9 @@ Lab [Data](https://github.com/jakobzhao/geog458/tree/master/labs/lab03) was proc
 
 [Mapbox Javascript API](https://docs.mapbox.com/mapbox-gl-js/api/) guides to make the maps.
 
-Step-by-step how to create[choropleth](https://github.com/jakobzhao/geog495/tree/main/labs/lab04)
+Step-by-step how to create [choropleth](https://github.com/jakobzhao/geog495/tree/main/labs/lab04)
 
-Step-by-step how to create[proportional](https://github.com/jakobzhao/geog458/tree/master/labs/lab03) maps.
+Step-by-step how to create [proportional](https://github.com/jakobzhao/geog458/tree/master/labs/lab03) maps.
 
 [QGIS 3.16.15](https://qgis.org/en/site/) was used to convert shapefile to GEOJSON.
 
