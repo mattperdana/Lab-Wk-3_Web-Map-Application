@@ -9,6 +9,10 @@ This project maps COVID-19 2020 cases and rates in the United States through two
 
 ![Choropleth Map](img/map-1.png)
 
+[Covid Rates in the United States 2020 - Proportional Symbol Map](http://127.0.0.1:5500/map2.html)
+
+![Proportional Symbol Map](img/map-2.png)
+
 **Data sources, resources, tools**
 
 The [New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv) gathered data to track Covid trends.
