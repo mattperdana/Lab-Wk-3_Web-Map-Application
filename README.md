@@ -6,3 +6,21 @@ US Covid 2020
 This project maps COVID-19 cases and rates in the United States through two kind of thematic maps. One is a choropleth map and the other is a proportional symbol map.
 
 [Covid Rates in the United States 2020 - Choropleth Map](https://mattperdana.github.io/USCovidCases2020/map1.html)
+
+### Data sources, resources, tools 
+The [New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv) gathered data to track Covid trends.
+
+Population data used to calculate Covid case rates was from the [2018 ACS 5-year estimates](https://data.census.gov/cedsci/table?g=0100000US%24050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true).
+
+US county shapefiles are from the [U.S. Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html).
+
+[Data](https://github.com/jakobzhao/geog458/tree/master/labs/lab03) was processed by Steven Bao.
+
+[Mapbox Javascript API](https://docs.mapbox.com/mapbox-gl-js/api/) was used to make the maps.
+
+Step-by-step how to create[choropleth](https://github.com/jakobzhao/geog495/tree/main/labs/lab04)
+Step-by-step how to create[proportional](https://github.com/jakobzhao/geog458/tree/master/labs/lab03) maps.
+
+[QGIS 3.16.15](https://qgis.org/en/site/) was used to convert shapefile to GEOJSON.
+
+[Visual Studio Code](https://code.visualstudio.com/) was used to edit the code.
