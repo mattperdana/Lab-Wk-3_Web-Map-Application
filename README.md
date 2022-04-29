@@ -8,6 +8,7 @@ This project maps COVID-19 2020 cases and rates in the United States through two
 [Covid Rates in the United States 2020 - Choropleth Map](https://mattperdana.github.io/USCovidCases2020/map1.html)
 
 **Data sources, resources, tools**
+
 The [New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv) gathered data to track Covid trends.
 
 Covid case rates calculation was from [2018 ACS 5-year estimates](https://data.census.gov/cedsci/table?g=0100000US%24050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true).
