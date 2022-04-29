@@ -1,9 +1,9 @@
-# Lab03_Web-Map-Application
-US Covid 2020
+# USCovidCases2020
+This file will introduce the project name, a brief introduction, links to the map, screenshots, the primary functions, libraries in use, data sources, credit, acknowledgment, and other necessary information.
 
 **Introduction**
 
-This project maps COVID-19 cases and rates in the United States through two kind of thematic maps. One is a choropleth map and the other is a proportional symbol map.
+This project maps COVID-19 2020 cases and rates in the United States through two kind of thematic maps. One is a choropleth map and the other is a proportional symbol map.
 
 [Covid Rates in the United States 2020 - Choropleth Map](https://mattperdana.github.io/USCovidCases2020/map1.html)
 
